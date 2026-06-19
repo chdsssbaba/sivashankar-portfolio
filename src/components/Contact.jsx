@@ -12,7 +12,7 @@ const contactLinks = [
     icon: FiLinkedin,
     title: 'LinkedIn',
     detail: 'linkedin.com/in/mr-stg',
-    link: 'https://www.linkedin.com/in/mr-stg/',
+    link: 'https://www.linkedin.com/in/chdsssbaba/',
   },
   {
     icon: FiGithub,
